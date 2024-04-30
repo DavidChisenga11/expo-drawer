@@ -17,7 +17,6 @@ export default function _layout(){
                 // color: 'purple'
             }
             
-
         }}>
             <Tabs.Screen
                 name='settings'
